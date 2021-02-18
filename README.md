@@ -3,7 +3,7 @@
 Meus contatos mpaape.mp@gmail.com -- Mateus Magnus Paape
 Linkedin: https://www.linkedin.com/in/mateus-magnus-paape-1a96797b/
 
-# Atenção! O texto e códigos aqui nesse repositório são todos exemplos aprendidos no curso Python & My SQL disponível para compra na Udemy em: https://www.udemy.com/course/python-mysql/ (é baratinho compre e ajudem os caras!)
+**Atenção! O texto e códigos aqui nesse repositório são todos exemplos aprendidos no curso Python & My SQL disponível para compra na Udemy em: https://www.udemy.com/course/python-mysql/ (é baratinho compre e ajudem os caras!)
 
 Repositório destinado a guardar exercicíos e comandos aprendidos no curso Python &amp; MySQL disponível na Udemy
 
